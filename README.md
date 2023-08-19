@@ -1,2 +1,2 @@
-# Starterkit for Trying out @angular-architects/module-federation
+# Demo Project for trying out @angular-architects/module-federation
 
